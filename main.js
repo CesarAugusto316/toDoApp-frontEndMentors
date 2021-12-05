@@ -1,7 +1,7 @@
 "use strict";
 
 //* ────────────────────────────────────────────────── */
-//* DARK MODE (DEFAULT) */
+//* DARK MODE (default) */
 //* ────────────────────────────────────────────────── */
 const input$ToDo = document.querySelector("#create-todo");
 const items$List = document.querySelector("div.list-items"); //*CONTAINER*/
